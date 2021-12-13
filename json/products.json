@@ -1,0 +1,86 @@
+[
+  {
+    "category": "дом",
+    "name": "странная лампа",
+    "image": "products/product-1.jpg",
+    "price": 2400,
+    "quantity": 4
+  },
+  {
+    "category": "дом",
+    "name": "полуподушка",
+    "image": "products/product-1-lg.jpg",
+    "price": 1600,
+    "quantity": 1
+  },
+  {
+    "category": "дом",
+    "name": "разобиженные стулья",
+    "image": "products/product-2.jpg",
+    "price": 6400,
+    "quantity": 2
+  },
+  {
+    "category": "офис",
+    "name": "лампа?",
+    "image": "products/product-2-sm.jpg",
+    "price": 4200,
+    "quantity": 3
+  },
+  {
+    "category": "офис",
+    "name": "чайник",
+    "image": "products/product-3.jpg",
+    "price": 2000,
+    "quantity": 2
+  },
+  {
+    "category": "офис",
+    "name": "диванчик",
+    "image": "products/product-3-sm.jpg",
+    "price": 8400,
+    "quantity": 1
+  },
+  {
+    "category": "классика",
+    "name": "стуль :)",
+    "image": "products/product-4.jpg",
+    "price": 3500,
+    "quantity": 4
+  },
+  {
+    "category": "классика",
+    "name": "настенные часы",
+    "image": "products/product-4-sm.jpg",
+    "price": 2600,
+    "quantity": 2
+  },
+  {
+    "category": "классика",
+    "name": "светильник",
+    "image": "products/product-5-sm.jpg",
+    "price": 2300,
+    "quantity": 1
+  },
+  {
+    "category": "модерн",
+    "name": "лампа",
+    "image": "products/product-11.jpg",
+    "price": 2300,
+    "quantity": 0
+  },
+  {
+    "category": "модерн",
+    "name": "стул",
+    "image": "products/product-21.jpg",
+    "price": 2100,
+    "quantity": 1
+  },
+  {
+    "category": "модерн",
+    "name": "светильник",
+    "image": "products/product-31.jpg",
+    "price": 6100,
+    "quantity": 0
+  }
+]
