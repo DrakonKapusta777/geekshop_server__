@@ -82,7 +82,7 @@ html, body {
 }
 .basket {
 	display: block;
-	width: 23px;
+	width: 100px;
 	height: 23px;	
 	background-image: url(img/basket.png);
 	position: absolute;
@@ -90,7 +90,9 @@ html, body {
 	left: 1210px;
 	padding-left: 27px;
     background-repeat: no-repeat;
-    font-weight: bold;
+	font-size: 12px;
+	text-decoration: none;
+    /*font-weight: bold;*/
 }
 
 .clearfix:after {
