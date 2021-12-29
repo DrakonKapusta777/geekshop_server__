@@ -1,0 +1,17 @@
+{% extends 'adminapp/base.html' %}
+{% load static %}
+
+{% block content %}
+    <form class="form-horizontal" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input class="form-control col-lg-12" type="submit" value="сохранить">
+    </form>
+    <br>
+    <br>
+    <button class="btn btn-round form-control last col-lg-12">
+        <a href="{% url 'adminapp:user_list' %}">
+            к списку пользователей
+        </a>
+    </button>
+{% endblock %}
