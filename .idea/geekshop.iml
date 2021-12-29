@@ -23,5 +23,13 @@
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/adminapp/templates" />
+        <option value="$MODULE_DIR$/basketapp/templates" />
+        <option value="$MODULE_DIR$/authapp/templates" />
+        <option value="$MODULE_DIR$/mainapp/templates" />
+      </list>
+    </option>
   </component>
 </module>
